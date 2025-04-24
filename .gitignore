@@ -1,0 +1,12 @@
+# Binaries
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Dependency directories
+vendor/
+
+# VS Code settings
+.vscode/
